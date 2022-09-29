@@ -8,11 +8,11 @@ Support for draft pages.
 
 ## How to make a draft page
 
-Set `Status: draft` in the [page settings](https://github.com/datenstrom/yellow-extensions/tree/master/source/core#settings-page) at the top of a page. The page will no longer be visible. You can continue to edit the page in a [web browser](https://github.com/datenstrom/yellow-extensions/tree/master/source/edit) and on your [computer](https://github.com/datenstrom/yellow-extensions/tree/master/source/core).
+Set `Status: draft` in the [page settings](https://github.com/annaesvensson/yellow-core#settings-page) at the top of a page. The page will no longer be visible. You can continue to edit the page in a [web browser](https://github.com/annaesvensson/yellow-edit) and on your [computer](https://github.com/annaesvensson/yellow-core).
 
 ## How to find draft pages
 
-You can use the [search extension](https://github.com/datenstrom/yellow-extensions/tree/master/source/search). Once you're logged in with your user account, you can search with the `status:draft` filter for draft pages. This allows you to find all draft pages.
+You can use the [search extension](https://github.com/annaesvensson/yellow-search). Once you're logged in with your user account, you can search with the `status:draft` filter for draft pages. This allows you to find all draft pages.
 
 ## Examples
 
@@ -65,7 +65,7 @@ Layout file for showing all draft pages:
 
 ## Installation
 
-[Download extension](https://github.com/datenstrom/yellow-extensions/raw/master/downloads/draft.zip) and copy zip file into your `system/extensions` folder. Right click if you use Safari.
+[Download extension](https://github.com/annaesvensson/yellow-draft/archive/main.zip) and copy zip file into your `system/extensions` folder. Right click if you use Safari.
 
 ## Developer
 

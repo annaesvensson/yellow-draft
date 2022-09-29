@@ -8,11 +8,11 @@ Stöd för draftsidor.
 
 ## Hur man skapar en draftsida 
 
-Ställ in `Status: draft` i [sidinställningar](https://github.com/datenstrom/yellow-extensions/tree/master/source/core/README-sv.md#inställningar-page) högst upp på en sida. Sidan kommer inte längre att visas. Du kan fortsätta att redigera sidan i [webbläsaren](https://github.com/datenstrom/yellow-extensions/tree/master/source/edit/README-sv.md) och på din [dator](https://github.com/datenstrom/yellow-extensions/tree/master/source/core/README-sv.md).
+Ställ in `Status: draft` i [sidinställningar](https://github.com/annaesvensson/yellow-core/tree/main/README-sv.md#inställningar-page) högst upp på en sida. Sidan kommer inte längre att visas. Du kan fortsätta att redigera sidan i [webbläsaren](https://github.com/annaesvensson/yellow-edit/tree/main/README-sv.md) och på din [dator](https://github.com/annaesvensson/yellow-core/tree/main/README-sv.md).
 
 ## Hur man hittar draftsidor
 
-Du kan använda [search-tilläget](https://github.com/datenstrom/yellow-extensions/tree/master/source/search/README-sv.md). När du är inloggad med ditt användarkonto kan du söka med filtret `status:draft` efter draftsidor. På så sätt kan du hitta alla draftsidor igen.
+Du kan använda [search-tilläget](https://github.com/annaesvensson/yellow-search/tree/main/README-sv.md). När du är inloggad med ditt användarkonto kan du söka med filtret `status:draft` efter draftsidor. På så sätt kan du hitta alla draftsidor igen.
 
 ## Exempel
 
@@ -65,7 +65,7 @@ Layoutfil för att visa alla draftsidor:
 
 ## Installation
 
-[Ladda ner tillägg](https://github.com/datenstrom/yellow-extensions/raw/master/downloads/draft.zip) och kopiera zip-fil till din `system/extensions` mapp. Högerklicka om du använder Safari.
+[Ladda ner tillägg](https://github.com/annaesvensson/yellow-draft/archive/main.zip) och kopiera zip-fil till din `system/extensions` mapp. Högerklicka om du använder Safari.
 
 ## Utvecklare
 

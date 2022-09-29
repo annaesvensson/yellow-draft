@@ -1,5 +1,5 @@
 <?php
-// Draft extension, https://github.com/datenstrom/yellow-extensions/tree/master/source/draft
+// Draft extension, https://github.com/annaesvensson/yellow-draft
 
 class YellowDraft {
     const VERSION = "0.8.16";

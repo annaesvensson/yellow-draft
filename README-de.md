@@ -8,11 +8,11 @@ Unterstützung für Entwurfsseiten.
 
 ## Wie man eine Entwurfsseite macht
 
-Ganz oben auf einer Seite kannst du `Status: draft` in den [Seiteneinstellungen](https://github.com/datenstrom/yellow-extensions/tree/master/source/core/README-de.md#einstellungen-seite) festlegen. Die Seite ist dann nicht mehr sichtbar. Du kannst die Seite weiterhin im [Webbrowser](https://github.com/datenstrom/yellow-extensions/tree/master/source/edit/README-de.md) und auf deinem [Computer](https://github.com/datenstrom/yellow-extensions/tree/master/source/core/README-de.md) bearbeiten.
+Ganz oben auf einer Seite kannst du `Status: draft` in den [Seiteneinstellungen](https://github.com/annaesvensson/yellow-core/tree/main/README-de.md#einstellungen-seite) festlegen. Die Seite ist dann nicht mehr sichtbar. Du kannst die Seite weiterhin im [Webbrowser](https://github.com/annaesvensson/yellow-edit/tree/main/README-de.md) und auf deinem [Computer](https://github.com/annaesvensson/yellow-core/tree/main/README-de.md) bearbeiten.
 
 ## Wie man Entwurfsseiten wiederfindet
 
-Du kannst die [Search-Erweiterung](https://github.com/datenstrom/yellow-extensions/tree/master/source/search/README-de.md) benutzen. Sobald du mit deinem Benutzerkonto angemeldet bist, kannst du mit dem Filter `status:draft` nach Entwurfsseiten suchen. Auf diese Weise kannst du alle Entwurfsseiten wiederfinden.
+Du kannst die [Search-Erweiterung](https://github.com/annaesvensson/yellow-search/tree/main/README-de.md) benutzen. Sobald du mit deinem Benutzerkonto angemeldet bist, kannst du mit dem Filter `status:draft` nach Entwurfsseiten suchen. Auf diese Weise kannst du alle Entwurfsseiten wiederfinden.
 
 ## Beispiele
 
@@ -65,7 +65,7 @@ Layoutdatei um alle Entwurfseiten anzuzeigen:
 
 ## Installation
 
-[Erweiterung herunterladen](https://github.com/datenstrom/yellow-extensions/raw/master/downloads/draft.zip) und die Zip-Datei in dein `system/extensions`-Verzeichnis kopieren. Rechtsklick bei Safari.
+[Erweiterung herunterladen](https://github.com/annaesvensson/yellow-draft/archive/main.zip) und die Zip-Datei in dein `system/extensions`-Verzeichnis kopieren. Rechtsklick bei Safari.
 
 ## Entwickler
 
