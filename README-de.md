@@ -6,6 +6,10 @@ Unterstützung für Entwurfsseiten.
 
 <p align="center"><img src="draft-screenshot.png?raw=true" alt="Bildschirmfoto"></p>
 
+## Wie man eine Erweiterung installiert
+
+[ZIP-Datei herunterladen](https://github.com/annaesvensson/yellow-draft/archive/main.zip) und in dein `system/extensions`-Verzeichnis kopieren. [Weitere Informationen zu Erweiterungen](https://github.com/annaesvensson/yellow-update/tree/main/README-de.md).
+
 ## Wie man eine Entwurfsseite macht
 
 Ganz oben auf einer Seite kannst du `Status: draft` in den [Seiteneinstellungen](https://github.com/annaesvensson/yellow-core/tree/main/README-de.md#einstellungen-seite) festlegen. Die Seite ist dann nicht mehr sichtbar. Du kannst die Seite weiterhin im [Webbrowser](https://github.com/annaesvensson/yellow-edit/tree/main/README-de.md) und auf deinem [Computer](https://github.com/annaesvensson/yellow-core/tree/main/README-de.md) bearbeiten.
@@ -62,10 +66,6 @@ Layoutdatei um alle Entwurfseiten anzuzeigen:
     </div>
     </div>
     <?php $this->yellow->layout("footer") ?>
-
-## Installation
-
-[Erweiterung herunterladen](https://github.com/annaesvensson/yellow-draft/archive/main.zip) und die ZIP-Datei in dein `system/extensions`-Verzeichnis kopieren. [Weitere Informationen zu Erweiterungen](https://github.com/annaesvensson/yellow-update/tree/main/README-de.md).
 
 ## Entwickler
 

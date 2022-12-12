@@ -6,6 +6,10 @@ Stöd för draftsidor.
 
 <p align="center"><img src="draft-screenshot.png?raw=true" alt="Skärmdump"></p>
 
+## Hur man installerar ett tillägg
+
+[Ladda ner ZIP-filen](https://github.com/annaesvensson/yellow-draft/archive/main.zip) och kopiera den till din `system/extensions` mapp. [Läs mer om tillägg](https://github.com/annaesvensson/yellow-update/tree/main/README-sv.md).
+
 ## Hur man skapar en draftsida 
 
 Ställ in `Status: draft` i [sidinställningar](https://github.com/annaesvensson/yellow-core/tree/main/README-sv.md#inställningar-page) högst upp på en sida. Sidan kommer inte längre att visas. Du kan fortsätta att redigera sidan i [webbläsaren](https://github.com/annaesvensson/yellow-edit/tree/main/README-sv.md) och på din [dator](https://github.com/annaesvensson/yellow-core/tree/main/README-sv.md).
@@ -62,10 +66,6 @@ Layoutfil för att visa alla draftsidor:
     </div>
     </div>
     <?php $this->yellow->layout("footer") ?>
-
-## Installation
-
-[Ladda ner tillägg](https://github.com/annaesvensson/yellow-draft/archive/main.zip) och kopiera ZIP-fil till din `system/extensions` mapp. [Läs mer om tillägg](https://github.com/annaesvensson/yellow-update/tree/main/README-sv.md).
 
 ## Utvecklare
 

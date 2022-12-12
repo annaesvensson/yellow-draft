@@ -6,6 +6,10 @@ Support for draft pages.
 
 <p align="center"><img src="draft-screenshot.png?raw=true" alt="Screenshot"></p>
 
+## How to install an extension
+
+[Download ZIP file](https://github.com/annaesvensson/yellow-draft/archive/main.zip) and copy it into your `system/extensions` folder. [Learn more about extensions](https://github.com/annaesvensson/yellow-update).
+
 ## How to make a draft page
 
 Set `Status: draft` in the [page settings](https://github.com/annaesvensson/yellow-core#settings-page) at the top of a page. The page will no longer be visible. You can continue to edit the page in a [web browser](https://github.com/annaesvensson/yellow-edit) and on your [computer](https://github.com/annaesvensson/yellow-core).
@@ -62,10 +66,6 @@ Layout file for showing all draft pages:
     </div>
     </div>
     <?php $this->yellow->layout("footer") ?>
-
-## Installation
-
-[Download extension](https://github.com/annaesvensson/yellow-draft/archive/main.zip) and copy ZIP file into your `system/extensions` folder. [Learn more about extensions](https://github.com/annaesvensson/yellow-update).
 
 ## Developer
 
