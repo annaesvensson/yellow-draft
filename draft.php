@@ -2,7 +2,7 @@
 // Draft extension, https://github.com/annaesvensson/yellow-draft
 
 class YellowDraft {
-    const VERSION = "0.8.17";
+    const VERSION = "0.8.18";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -17,7 +17,7 @@ class YellowDraft {
     
     // Handle page layout
     public function onParsePageLayout($page, $name) {
-        if ($this->yellow->page->get("status")=="draft" && $this->yellow->getRequestHandler()=="core") {
+        if ($this->yellow->page->get("status")=="draft" && $this->yellow->lookup->getRequestHandler()=="core") {
             $errorMessage = "";
             if ($this->yellow->extension->isExisting("edit")) {
                 $errorMessage .= "<a href=\"".$this->yellow->page->get("editPageUrl")."\">";
