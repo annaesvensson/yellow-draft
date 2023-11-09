@@ -16,7 +16,7 @@ Ställ in `Status: draft` i [sidinställningar](https://github.com/annaesvensson
 
 ## Hur man hittar draftsidor
 
-Du kan använda [search-tillägget](https://github.com/annaesvensson/yellow-search/tree/main/README-sv.md). När du är inloggad med ditt användarkonto kan du söka med filtret `status:draft` efter draftsidor. På så sätt kan du hitta alla draftsidor igen.
+Du kan använda [search-tillägget](https://github.com/annaesvensson/yellow-search/tree/main/README-sv.md). När du är inloggad med ditt användarkonto kan du söka efter `status:draft`. På så sätt kan du hitta alla draftsidor igen.
 
 ## Exempel
 
