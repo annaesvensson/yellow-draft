@@ -16,7 +16,7 @@ Set `Status: draft` in the [page settings](https://github.com/annaesvensson/yell
 
 ## How to find draft pages
 
-You can use the [search extension](https://github.com/annaesvensson/yellow-search). Once you're logged in with your user account, you can search with the `status:draft` filter for draft pages. This allows you to find all draft pages.
+You can use the [search extension](https://github.com/annaesvensson/yellow-search). Once you're logged in with your user account, you can search for `status:draft`. This allows you to find all draft pages.
 
 ## Examples
 
