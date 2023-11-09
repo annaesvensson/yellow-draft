@@ -16,7 +16,7 @@ Ganz oben auf einer Seite kannst du `Status: draft` in den [Seiteneinstellungen]
 
 ## Wie man Entwurfsseiten wiederfindet
 
-Du kannst die [Search-Erweiterung](https://github.com/annaesvensson/yellow-search/tree/main/README-de.md) benutzen. Sobald du mit deinem Benutzerkonto angemeldet bist, kannst du mit dem Filter `status:draft` nach Entwurfsseiten suchen. Auf diese Weise kannst du alle Entwurfsseiten wiederfinden.
+Du kannst die [Search-Erweiterung](https://github.com/annaesvensson/yellow-search/tree/main/README-de.md) benutzen. Sobald du mit deinem Benutzerkonto angemeldet bist, kannst du nach `status:draft` suchen. Auf diese Weise kannst du alle Entwurfsseiten wiederfinden.
 
 ## Beispiele
 
