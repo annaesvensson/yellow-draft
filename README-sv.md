@@ -4,7 +4,7 @@
 
 Stöd för draftsidor.
 
-<p align="center"><img src="draft-screenshot.png?raw=true" alt="Skärmdump"></p>
+<p align="center"><img src="SCREENSHOT.png?raw=true" alt="Skärmdump"></p>
 
 ## Hur man installerar ett tillägg
 
