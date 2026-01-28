@@ -1,8 +1,6 @@
-<p align="right"><a href="readme-de.md">Deutsch</a> &nbsp; <a href="readme.md">English</a> &nbsp; <a href="readme-sv.md">Svenska</a></p>
-
 # Draft 0.9.1
 
-Unterstützung für Entwurfsseiten.
+Unterstützung für Entwurfsseiten. Entwickelt von Anna Svensson.
 
 <p align="center"><img src="screenshot.png" alt="Bildschirmfoto"></p>
 
@@ -67,6 +65,4 @@ Layoutdatei um alle Entwurfseiten anzuzeigen:
     </div>
     <?php $this->yellow->layout("footer") ?>
 
-## Entwickler
-
-Anna Svensson. [Hilfe finden](https://datenstrom.se/de/yellow/help/).
+Hast du Fragen? [Hilfe finden](https://datenstrom.se/de/yellow/help/).
