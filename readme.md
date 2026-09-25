@@ -1,4 +1,4 @@
-# Draft 0.9.1
+# Draft 1.0.1
 
 Support for draft pages. Developed by Anna Svensson.
 
